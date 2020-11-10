@@ -1,3 +1,6 @@
+
+--Question 4 is in sqlSolution.sql file
+
 CREATE DATABASE education;
 USE education;
 
