@@ -2,9 +2,9 @@
 # Zeraki
 The project has been created as possible solutions to the challanges in assessment.pdf
 
-## Prerequisites
+## Pre-requisites
 * Install Java JDK 8 and above.[Download](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
-* Install Mysql.You can Download and install MySQL from the link (https://dev.mysql.com/downloads/)
+* Install Mysql.You can Download and install MySQL from the link [Download](https://dev.mysql.com/downloads/)
 
 ## Execution
 > Incase you need to compile execute this ```bash javac -d out "Insert class name here".java```
